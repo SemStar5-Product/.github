@@ -5,7 +5,7 @@
 
 **This is an Enterprise Organisation open _only_ to Baker Hughes Staff.**
 
-If are a member of staff and you need access to this repository please contact Steve Barnes, Milow Matovic &/or Terence Tritton by email from your Baker Hughes email account detailing the access needed and why.
+If are a member of staff and you need access to this repository please contact Steve Barnes, Milos Matovic &/or Terence Tritton by email from your Baker Hughes email account detailing the access needed and why.
 
 <!-- Baker Hughes Energy Technology UK Limited Confidential
 [Unpublished] Copyright 2022.  Baker Hughes Energy Technology UK Limited.
