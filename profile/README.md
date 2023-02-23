@@ -5,7 +5,9 @@
 
 **This is an Enterprise Organisation open _only_ to Baker Hughes Staff.**
 
-If are a member of staff and you need access to this repository please contact Steve Barnes, Milos Matovic &/or Terence Tritton by email from your Baker Hughes email account detailing the access needed and why.
+If you are a member of staff and need access to this repository please contact Steve Barnes, Milos Matovic &/or Terence Tritton by email from your Baker Hughes email account detailing the access needed and why.
+
+Access SemStar5 Subsea wiki page [here](https://github.com/SemStar5-Product/sem5subsea/wiki)
 
 <!-- Baker Hughes Energy Technology UK Limited Confidential
 [Unpublished] Copyright 2022.  Baker Hughes Energy Technology UK Limited.
